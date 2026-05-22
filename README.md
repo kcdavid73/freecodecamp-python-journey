@@ -13,3 +13,15 @@ Today I started learning Python.
 - Report Card Printer
 
 Goal: Build consistency and strong programming foundations.
+## Day 2 Progress
+
+### Workshop Completed
+- Employee Profile Generator
+
+### Skills Practiced
+- Variables
+- User Input
+- Output Formatting
+- Basic Program Logic
+
+Balancing research and Python learning while staying consistent.
