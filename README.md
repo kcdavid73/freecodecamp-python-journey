@@ -25,3 +25,20 @@ Goal: Build consistency and strong programming foundations.
 - Basic Program Logic
 
 Balancing research and Python learning while staying consistent.
+## Day 3 Progress
+
+### Topics Covered
+- Integers and Floating-Point Numbers
+- Mathematical Operations
+- Augmented Assignments
+
+### Workshop Completed
+- Bill Splitter
+
+### Skills Practiced
+- Mathematical calculations
+- Working with numbers in Python
+- Code simplification using augmented assignments
+- Problem-solving with a real-world example
+
+Consistency over perfection.
