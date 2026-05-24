@@ -42,3 +42,24 @@ Balancing research and Python learning while staying consistent.
 - Problem-solving with a real-world example
 
 Consistency over perfection.
+## Day 3 Progress
+
+### Topics Covered
+
+* Booleans and Conditional Statements
+* Logical Operators
+* Truthy and Falsy Values
+* Boolean Operators and Short-Circuiting
+
+### Workshop Completed
+
+* Movie Ticket Booking Calculator
+
+### Skills Practiced
+
+* Conditional logic
+* Boolean values
+* Decision-making in programs
+* Problem-solving with real-world examples
+
+Learning one concept at a time and staying consistent.
