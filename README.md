@@ -63,3 +63,17 @@ Consistency over perfection.
 * Problem-solving with real-world examples
 
 Learning one concept at a time and staying consistent.
+## Day 5 - Weather Planner Project
+
+### Topics Covered
+- Booleans and Conditionals
+- Decision Making in Python
+- Truthy and Falsy Values
+- Logical Operators
+
+### Project Built
+✅ Weather Planner
+
+Built a simple weather planning program using Python to make decisions based on weather conditions and user inputs.
+
+Note: Worked on mobile today due to electricity outage, but still completed the task.
