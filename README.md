@@ -77,3 +77,23 @@ Learning one concept at a time and staying consistent.
 Built a simple weather planning program using Python to make decisions based on weather conditions and user inputs.
 
 Note: Worked on mobile today due to electricity outage, but still completed the task.
+## Day 6 Progress
+
+### Topics Covered
+
+* Understanding Functions in Python
+* Function Parameters and Return Values
+* Scope in Python
+
+### Lab Completed
+
+* Apply Discount Function
+
+### Skills Practiced
+
+* Writing reusable functions
+* Input validation
+* Conditional logic
+* Problem-solving through structured programming
+
+Learning to think more like a programmer by breaking problems into smaller steps and building logical solutions.
