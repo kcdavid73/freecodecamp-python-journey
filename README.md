@@ -97,3 +97,20 @@ Note: Worked on mobile today due to electricity outage, but still completed the 
 * Problem-solving through structured programming
 
 Learning to think more like a programmer by breaking problems into smaller steps and building logical solutions.
+# Day 7 - Caesar Cipher
+
+## Project Overview
+Built a Caesar Cipher in Python to encrypt and decrypt text using a shift value.
+
+## Concepts Practiced
+- Functions
+- Parameters and arguments
+- Default arguments
+- String slicing
+- String concatenation
+- Boolean logic
+- Conditional statements
+- Encryption and decryption
+
+## What I Learned
+Today I learned how to structure code into reusable functions and implement a basic encryption/decryption algorithm using Python.
