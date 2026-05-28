@@ -114,3 +114,17 @@ Built a Caesar Cipher in Python to encrypt and decrypt text using a shift value.
 
 ## What I Learned
 Today I learned how to structure code into reusable functions and implement a basic encryption/decryption algorithm using Python.
+Day 8 of my Python learning journey.
+
+Today I practiced string slicing, concatenation, and beginner problem-solving by building a simple RPG Character app in Python.
+
+This task challenged me to think more logically about how code works step by step. I struggled with some parts at first, especially understanding how to structure the logic, but completing the project helped me understand Python strings and variables better.
+
+Key concepts practiced:
+- String slicing
+- String concatenation
+- Variables
+- Beginner logic building
+- Problem-solving through coding
+
+Progress over perfection. Consistency continues 🚀
