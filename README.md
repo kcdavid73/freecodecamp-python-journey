@@ -128,3 +128,20 @@ Key concepts practiced:
 - Problem-solving through coding
 
 Progress over perfection. Consistency continues 🚀
+# 🐍 My Python Learning Journey (freeCodeCamp)
+
+## Day 9: Getting Local & Mastering Sequences
+I'm back at it! Today was all about moving away from the browser sandboxes, setting up my local development environment, and diving deep into Python's core data structures.
+
+### What I Completed Today:
+* **Environment Setup:** Installed Python locally and configured it to run code on my machine. Passed the Installation Review & Quiz.
+* **Loops & Sequences (9/31 Steps):** dived into how Python handles collections of data and iterations.
+
+### Core Concepts Covered:
+* **Lists & Tuples:** Explored the differences between mutable lists and immutable tuples, along with their common methods.
+* **Control Flow:** Mastered standard loops and using `range()` for loops.
+* **Advanced Sequencing:** Learned how `enumerate()` tracks indices and `zip()` pairs collections.
+* **Pythonic Shortcuts:** Learned how to write clean **List Comprehensions** and short, anonymous **Lambda Functions**.
+
+---
+*Progress: Day 9 complete. Moving onto the rest of the Loops and Sequences module next!*
