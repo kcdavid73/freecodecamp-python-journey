@@ -145,3 +145,14 @@ I'm back at it! Today was all about moving away from the browser sandboxes, sett
 
 ---
 *Progress: Day 9 complete. Moving onto the rest of the Loops and Sequences module next!*
+## Day 10: Building a Functional Algorithm (PIN Extractor)
+Today, I took the loop and sequence concepts from yesterday and applied them to a practical string parsing and logic project: building a **PIN Extractor**.
+
+### Project Summary:
+The script processes a series of multiline text blocks (poems), splits them into individual lines, tracks line indices using `enumerate()`, isolates words, and safely extracts characters based on length constraints to compile distinct, multi-digit secret PINs.
+
+### Key Implementation Concepts:
+* **String Parsing:** Handled structural data using `.split('\n')` to isolate lines and `.split()` to parse out individual words.
+* **Nested Control Flow:** Managed matrix-like iteration using an outer loop for tracking multiple text files and inner nested loops for evaluating line positions.
+* **Boundary Safeguards:** Implemented conditional index evaluations (`if len(words) > line_index`) to prevent runtime list index errors when parsing uneven lines.
+* **Data Aggregation:** Dynamically appended compiled sequence strings into a final output list (`secret_codes`).
