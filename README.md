@@ -156,3 +156,41 @@ The script processes a series of multiline text blocks (poems), splits them into
 * **Nested Control Flow:** Managed matrix-like iteration using an outer loop for tracking multiple text files and inner nested loops for evaluating line positions.
 * **Boundary Safeguards:** Implemented conditional index evaluations (`if len(words) > line_index`) to prevent runtime list index errors when parsing uneven lines.
 * **Data Aggregation:** Dynamically appended compiled sequence strings into a final output list (`secret_codes`).
+# Day 11 - Number Pattern Generator (Python)
+
+## Overview
+
+Today, I built a **Number Pattern Generator** in Python using functions, loops, and input validation.
+
+### Features
+
+* Generates numbers from `1` to `n`
+* Returns numbers separated by spaces
+* Handles invalid input types
+* Validates positive integer input
+
+### Example
+
+```python
+number_pattern(4)
+```
+
+**Output:**
+
+```python
+"1 2 3 4"
+```
+
+## Concepts Practiced
+
+* Python functions (`def`)
+* `for` loops
+* `range()`
+* Input validation with `isinstance()`
+* Conditional statements (`if`)
+* String conversion using `str()`
+* String formatting and pattern generation
+
+## Progress
+
+Completed FreeCodeCamp lab and practiced applying the concepts through additional exercises.
