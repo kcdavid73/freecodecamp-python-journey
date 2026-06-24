@@ -194,3 +194,28 @@ number_pattern(4)
 ## Progress
 
 Completed FreeCodeCamp lab and practiced applying the concepts through additional exercises.
+GitHub Repository Update (Day 12)
+
+Day 12 – Loops and Sequences Review
+
+Today I reinforced my understanding of Python loops and sequences through FreeCodeCamp's review and quiz exercises.
+
+Topics Reviewed
+for loops
+Iterating through sequences
+Working with strings and lists
+Loop control and repetition
+Sequence traversal and indexing
+Applying loops to solve programming problems
+Completed
+
+✅ Loops and Sequences Review
+✅ Loops and Sequences Quiz
+
+Key Takeaway
+
+Loops are one of the most important programming concepts because they allow us to automate repetitive tasks and efficiently process data stored in sequences such as strings, lists, and tuples.
+
+Day 12 Progress: Consistency over intensity. Building a stronger Python foundation one day at a time.
+
+#Python #100DaysOfCode #FreeCodeCamp #Programming #CodingJourney #SoftwareDevelopment #LearningInPublic
