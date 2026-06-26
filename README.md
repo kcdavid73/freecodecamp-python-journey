@@ -219,3 +219,24 @@ Loops are one of the most important programming concepts because they allow us t
 Day 12 Progress: Consistency over intensity. Building a stronger Python foundation one day at a time.
 
 #Python #100DaysOfCode #FreeCodeCamp #Programming #CodingJourney #SoftwareDevelopment #LearningInPublic
+📅 Day 13 – Working with Dictionaries and Sets in Python
+
+Today's lesson focused on two of Python's most useful data structures: dictionaries and sets.
+
+📚 Topics Covered
+What dictionaries are and how they work
+Accessing, adding, updating, and deleting dictionary items
+Common techniques for looping through dictionaries
+What sets are and how they work
+Understanding unique values and basic set operations
+💡 Key Takeaways
+Dictionaries store data as key-value pairs, making data retrieval fast and organized.
+Dictionary methods like .keys(), .values(), and .items() make iteration more efficient.
+Sets automatically remove duplicate values, making them ideal for working with unique data.
+Set operations such as union, intersection, and difference simplify comparisons between collections.
+Choosing the right data structure improves both code readability and performance.
+🚀 Progress
+
+✔️ Completed Working with Dictionaries and Sets (Theory)
+
+Every lesson strengthens my understanding of Python's core concepts and prepares me for solving more complex programming problems.
